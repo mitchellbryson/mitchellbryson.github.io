@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/", (function(a){return {data:[{page:{slug:"index",description:"Awaiting content.",title:"MitchellBryson.com",toc:[],body:{type:"root",children:[]},dir:"\u002F",path:"\u002Findex",extension:".md",createdAt:a,updatedAt:a}}],fetch:{},mutations:void 0}}("2022-03-23T16:37:31.769Z")));
