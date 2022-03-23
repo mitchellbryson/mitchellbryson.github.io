@@ -1,7 +1,15 @@
 <template>
   <div>
+    <img
+      src="/mitchell.jpeg"
+      width="100"
+      style="float: left; margin-right: 1rem"
+    />
     <h1>{{ page.title }}</h1>
     <p>{{ page.description }}</p>
+    <br />
+    <hr />
+    <br />
     <nuxt-content :document="page" />
   </div>
 </template>
