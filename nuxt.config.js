@@ -48,5 +48,12 @@ export default {
 
   generate: {
     dir: 'docs',
+    routes: () => {
+      return [
+        {
+          route: '/',
+        },
+      ]
+    },
   },
 }
