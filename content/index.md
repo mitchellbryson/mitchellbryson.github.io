@@ -11,7 +11,7 @@ Career Highlights:
 - Learnt Ruby because of Rails 3.1 release in 2012
 - Learnt Vue.js at 0.8 release in 2014 (early!)
 - Sold my agency in 2016 (grew to a humble but killer team of 8)
-- Failed my first startup attempt after we raised £500k (depressed in 2018)
+- Failed my first vc backed startup attempt (depressed in 2018)
 - Learnt React at 16.3 release in 2018 (late! and I prefer Vue.js)
 - Head of Product and Frontend development at 2nd startup - successfully acquired (2020)
 - Took some time off to contribute to Opensource (Vue.js and Bootstrap)
@@ -22,7 +22,7 @@ Personal Highlights:
 
 - Wanted to be a DJ, my first freelance gig was supposed to buy me some technics
 - Married with 2 children (I delivered 2nd child in our front room!)
-- I've worked remotely for over a decade (since my agency days)
+- I've worked remotely for over a decade (since 2010)
 - Motorycle license (unfortunate lack of motorcycle right now)
 - I'm a domain name addict.
 - I'm converting a minibus to a camper van (it's taken me nearly 3 years so far)
