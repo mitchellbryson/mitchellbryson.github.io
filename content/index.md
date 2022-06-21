@@ -20,7 +20,7 @@ Career Highlights:
 
 Personal Highlights:
 
-- Wanted to be a DJ, my first freelance gig was supposed to buy me some technics
+- Wanted to be a DJ, my first freelance gig was supposed to buy me some technics but I bought a domain for my portfolio instead
 - Married with 2 children (I delivered 2nd child in our front room!)
 - I've worked remotely for over a decade (since 2010)
 - Motorycle license (unfortunate lack of motorcycle right now)
